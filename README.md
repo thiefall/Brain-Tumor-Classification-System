@@ -1,3 +1,4 @@
+```
 brain-tumor-classifier/
 ├── main.py                     # Flask application
 ├── models/
@@ -9,6 +10,7 @@ brain-tumor-classifier/
 ├── my_thiemokho_model.torch    # Pre-trained PyTorch model
 ├── my_thiemokho_model.keras    # Pre-trained TensorFlow model
 └── README.md
+```
 ✅ Upload brain MRI images (JPG, PNG, etc.)
 
 ✅ Choose between PyTorch and TensorFlow models
