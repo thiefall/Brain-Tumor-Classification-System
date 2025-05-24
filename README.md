@@ -2,11 +2,11 @@
 brain-tumor-classifier/
 ├── main.py                     # Flask application
 ├── models/
-│   ├── cnn.py                  # PyTorch CNN model definition
+│   ├── cnn.py                  # PyTorch CNN model and Tensorflow model definition
 ├── templates/
 │   └── index.html              # Web frontend
 ├── static/
-│   └── background.jpg          # Background image
+│   └── traitementcancerducerveaucerebrale.jpg          # Background image
 ├── my_thiemokho_model.torch    # Pre-trained PyTorch model
 ├── my_thiemokho_model.keras    # Pre-trained TensorFlow model
 └── README.md
