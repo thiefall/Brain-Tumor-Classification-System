@@ -1,3 +1,7 @@
+This is a simple and powerful web application that allows users to upload brain MRI scans and receive instant predictions on the type of brain tumor using deep learning models built with PyTorch and TensorFlow.
+
+The app uses Flask for the backend and provides a clean user interface for uploading images and viewing predictions.
+
 ```
 brain-tumor-classifier/
 ├── main.py                     # Flask application
